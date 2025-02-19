@@ -31,7 +31,7 @@ This project implements a simple content-based recommendation system for movies 
       pip install -r requirements.txt
       ```  
 
-**Running the code:**:
+**Running the code**:
 - Open the Jupyter Notebook (recommendation.ipynb) provided in this repository.
 - Run the cells sequentially.
 - When prompted, enter your movie preferences description (e.g., "I love thrilling action movies set in space with a comedic twist."), and the notebook will display the top movie recommendations with similarity scores.
